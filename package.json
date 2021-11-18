@@ -1,0 +1,11 @@
+{
+    "name": "piramide",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node idd2.js"
+    },
+    "dependencies": {
+        "express": "4.13.3"
+    },
+    "author": "etchabe"
+}
